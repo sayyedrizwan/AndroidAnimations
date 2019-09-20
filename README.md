@@ -51,14 +51,14 @@ Add the maven dependency
 	</dependency>
 	
 
-Add animation code to apply.
+3. Add animation code to apply.
 
-	Contect context = MainActivity.this;
-	
-	 Anims./*type of animation */ (context, Views);
-	 
-	 eg:- Anims.fadeApperance(context, rellayout);
-	 
+		Contect context = MainActivity.this;
+
+		 Anims./*type of animation */ (context, Views);
+
+		 eg:- Anims.fadeApperance(context, rellayout);
+
 <b>Type of Animations to use<b>
 
 	leftApperance;
