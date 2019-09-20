@@ -95,7 +95,7 @@ Add animation code to apply.
 
 
 
-License
+<b>License <b>
 
 
 		Copyright 2018-2019 Wallpo Inc.
