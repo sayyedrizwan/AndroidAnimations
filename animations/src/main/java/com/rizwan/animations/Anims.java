@@ -1,8 +1,13 @@
 package com.rizwan.animations;
 
+/*
+Copyright 202 Rizwan Sayyed(Rizwan Sayyed)
+ */
+
 import android.content.Context;
 import android.view.View;
 import android.view.animation.AnimationUtils;
+
 
 public class Anims {
 
